@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="valor">
+        <item>Quesadillas</item>
+        <item>Sopes</item>
+        <item>Tostadas</item>
+        <item>Pambazos</item>
+        <item>Gorditas</item>
+        <item>Refrescos</item>
+    </string-array>
+</resources>

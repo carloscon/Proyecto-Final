@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Quesadillas "El porvenir"</string>
+    <string name="usuario">Usuario</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="Menu">Menu</string>
+    <string name="Productos">Productos</string>
+    <string name="Productosm">Productos:</string>
+    <string name="Regresar">Regresar</string>
+    <string name="Seguir">Seguir comprando</string>
+    <string name="Ir">Ir al carrito</string>
+    <string name="vacio">  </string>
+    <string name="Fecha">Fecha-Hora-Folio</string>
+    <string name="Pagar">Pagar</string>
+    <string name="pago">$   </string>
+    <string name="Cancelar">Cancelar</string>
+    <string name="Monto">Monto Recibido</string>
+    <string name="Cambio">Cambio</string>
+    <string name="Cobrado">Cobrado</string>
+    <string name="Compraex">Compra exitosa...</string>
+    <string name="salir">Salir</string>
+    <string name="nueva">Nueva Orden</string>
+    <string name="dia">Dia</string>
+    <string name="mes">Mes</string>
+    <string name="año">Año</string>
+    <string name="agregar">Agregar</string>
+    <string name="nombre">Nombre</string>
+    <string name="precio">Precio</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="estadistica">Estadisticas</string>
+    <string name="Lechuga">Lechuga</string>
+    <string name="Frijol">Frijol</string>
+    <string name="Quitar">Quitar</string>
+
+    <string name="Queso">Descripcion</string>
+
+</resources>
